@@ -1,1 +1,4 @@
-print("Hello_sec1")
+"""docs"""
+def main():
+  print("Hello D kub auen")
+main()
